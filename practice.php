@@ -101,13 +101,36 @@
 // echo $count;
 
 
-$number = 583921;
-$result =[];
-for($i=$number; $i>0;){
-    $i = $i%10;
-    $result= $i;
-}
+// $number = 583921;
+// $result =[];
+// for($i=$number; $i>0;){
+//     $i = $i%10;
+//     $result= $i;
+// }
 
+// $number = 21;
+// if($number%2 == 0){
+//     echo "even";
+
+// }
+// else{
+//     echo "odd";
+// }
+
+
+// $number = 21;
+// if($number = 1){
+//     echo "not prime";
+// }
+// for($i=2; $i<$number; $i++){
+//     if($number%$i == 0){
+//         echo "not prime";
+
+//     }
+//     else{
+//         echo "prime";
+//     }
+// }
 
 
 

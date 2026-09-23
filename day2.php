@@ -86,6 +86,14 @@ echo "<br><br><br>";
 
 //دانشجوهای با نمره ی بالای 15
 
+// foreach ($students as $student){
+//     if($student["نمره:"] > 15){
+//         echo $student["نام:"] . "<br>";
+
+//     }
+// }
+
+
 function top15($student) {
     return $student["نمره:"] > 15;
 }
